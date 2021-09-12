@@ -17,7 +17,7 @@ export type SalePage = {
     first: boolean,
     numberOfElements?: number;
     size?: number;
-    number?: number;
+    number: number;
     empty?: boolean;
 }
 
